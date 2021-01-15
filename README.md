@@ -19,7 +19,7 @@ Lo script una volta eseguito apre il file contenente le password e li estrae ins
 Fa partire un ciclo che scorre tutti i file rar all'interno della directory.
 Per ogni file viene fatta l'estrazione degli elementi prendendo la password dal file txt.
 
-# N.B.:
+# N.B.
    I file e le password devono avere lo stesso ordine, così che il ciclo funzioni.
    E.X.:
     File1    Password1
